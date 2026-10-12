@@ -147,7 +147,7 @@ petak = st.session_state.petak
 # ---------------------------------------------------------------------------
 # HEADER, TUJUAN, CARA BERMAIN
 # ---------------------------------------------------------------------------
-st.title("🌱 Panen Cerdas")
+st.title("🌱 Smart Farming - Farm Builder")
 st.caption("Kelola lahan berdasarkan data, bukan tebakan")
 
 st.info(
