@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 
-st.set_page_config(page_title="Panen Cerdas - Farm Builder", page_icon="🌱", layout="wide")
+st.set_page_config(page_title="Smart Farming - Farm Builder", page_icon="🌱", layout="wide")
 
 # ---------------------------------------------------------------------------
 # KONSTANTA GAME
