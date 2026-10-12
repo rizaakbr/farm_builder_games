@@ -18,7 +18,7 @@
 
 ---
 
-## Bab 1 · Gambaran singkat
+## · Gambaran singkat
 
 Kamu mengelola lahan 4×4 (16 petak). Setiap musim kamu memilih tanaman, memanen, lalu
 hasilnya masuk ke **data historis** untuk musim berikutnya. Yang membedakan petani biasa dengan
@@ -44,7 +44,7 @@ Harga pasar bergeser acak sekitar ± Rp2.000 tiap panen.
 
 ---
 
-## Bab 2 · Memasang game
+## · Memasang game
 
 **Kebutuhan:** Python 3.10 atau lebih baru dan koneksi internet untuk memasang pustaka.
 Game ini memakai **scikit-learn** untuk Tahap 2 dan 3, jadi wajib dipasang.
@@ -81,7 +81,7 @@ Game terbuka di `http://localhost:8501`.
 
 ---
 
-## Bab 3 · Satu musim dari awal sampai panen
+## · Satu musim dari awal sampai panen
 
 ```
    ┌──────────────┐     ┌──────────────┐     ┌──────────────┐     ┌──────────────┐
@@ -136,7 +136,7 @@ hasil (kg), pendapatan, biaya tanam, dan laba bersih. Laba menambah saldo, lalu 
 
 ---
 
-## Bab 4 · Tiga tahap buku catatan
+## 4 · Tiga tahap buku catatan
 
 Tiga tab di Notebook membawamu dari "klik" ke "kode".
 
@@ -174,7 +174,7 @@ Ada tantangan 💡 di bawah editor untuk meraih lencana *Ilmuwan Data*.
 
 ---
 
-## Bab 5 · Tangga akurasi: belajar dari angka R²
+##  5 · Tangga akurasi: belajar dari angka R²
 
 R² menunjukkan seberapa besar variasi hasil panen yang bisa dijelaskan modelmu (0 = tidak sama sekali,
 1 = sempurna). Pada data awal (musim 1), inilah anak tangga yang bisa dinaiki pemain:
@@ -209,7 +209,7 @@ model = LinearRegression().fit(fitur, target)
 
 ---
 
-## Bab 6 · Data science di ladang
+## 6 · Data science di ladang
 
 | Yang kamu lakukan di game | Konsep data science |
 |---------------------------|---------------------|
@@ -227,7 +227,7 @@ model = LinearRegression().fit(fitur, target)
 
 ---
 
-## Bab 7 · Tanya jawab
+## 7 · Tanya jawab
 
 **Apakah model yang kulatih benar-benar memprediksi hasil panenku?**
 Belum. Itu **mekanik game yang disederhanakan**: akurasi model (R²) diubah menjadi pengali bonus
