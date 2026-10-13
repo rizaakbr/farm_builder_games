@@ -7,7 +7,7 @@ st.set_page_config(page_title="Smart Farming - Farm Builder", page_icon="🌱", 
 # ---------------------------------------------------------------------------
 # KONSTANTA GAME
 # ---------------------------------------------------------------------------
-TARGET_SALDO = 100_000_000
+TARGET_SALDO = 50_000_000
 MAKS_MUSIM = 7
 SALDO_AWAL = 2_000_000
 
